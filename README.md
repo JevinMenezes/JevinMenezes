@@ -1,10 +1,11 @@
 Hello! I'm Jevin.
 
-* Working as a Software Developer for a Life Insurance client of [Tata Consultancy Services](https://www.tcs.com)
+* Working as a Software Developer for a Life Insurance customer of [Tata Consultancy Services](https://www.tcs.com)
   * As a member of Application Security module I actively contribute towards the security framework of the project
-  * I collaborate with the other teams for the web application issue analysis and thereby till the bug fixes are released
-  * I also play the role of an Information Security Analyst for enhancements which require InfoSec review, risk mitigation and signoffs
+  * I collaborate with the other teams for the web application issue analysis, debugging, resolution and thereby provide support till the fixes are released
+  * I also play the role of an Information Security Analyst for enhancements which require thorough InfoSec review, risk mitigation and signoffs
   * Once in 3 months I work with Performance monitoring team to enhance overall application performance metrics
+
 
 
 Outside work:
@@ -12,10 +13,9 @@ Outside work:
 - 🌱 I’m currently learning new ways of leading design and development of SaaS based projects
 - 👯 I’m looking to collaborate on Information Security and Application Performance based open source projects
 - 💬 Ask me about current Digital Technologies and we'll surely have endless conversations 😄
-
-You can find me on [twitter](https://twitter.com/JevinMenezes), [LinkedIn](https://in.linkedin.com/in/jevinmenezes)
-
 - ⚡ Fun fact: The name is Jevin Menezes and the address is 127.0.0.1 😉
+
+- You can find me on [twitter](https://twitter.com/JevinMenezes), [LinkedIn](https://in.linkedin.com/in/jevinmenezes)
 
 <!--
 Here are some ideas to get you started:
