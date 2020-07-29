@@ -9,8 +9,8 @@ Hello there! I'm Jevin. Glad to e-meet you :)
   
 Outside work:
 - 🔭 I’m currently working on Information Security open source projects 
-- 🌱 I’m currently learning new ways of leading design and development of SaaS based projects
-- 👯 I’m looking to collaborate on Information Security and Application Performance based open source projects
+- 🌱 I’m learning new ways of leading design and development of SaaS based projects
+- 👯 I’m looking to collaborate on community driven open source projects
 - 💬 Ask me about current Digital Technologies and we'll surely have endless conversations 😄
 - ⚡ Fun fact: The name's *Jevin Menezes* and the address is *127.0.0.1* 😉
 
