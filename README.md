@@ -1,6 +1,6 @@
 Hello there! I'm Jevin. Glad to e-meet you :)
 
-* Working as a Software Developer for a Life Insurance customer of [Tata Consultancy Services](https://www.tcs.com)
+* Working as a Software Developer for an Insurance domain customer of [Tata Consultancy Services](https://www.tcs.com)
   * As a member of Application Security module I actively contribute towards the security framework of the project
   * I collaborate with the other teams for the web application issue analysis, debugging, resolution and thereby provide support till the fixes are released
   * I also play the role of an Information Security Analyst for enhancements which require thorough InfoSec review, risk mitigation and signoffs
