@@ -1,4 +1,4 @@
-Hello there! I'm Jevin. Glad to e-meet you :)
+Hello there! I'm Jevin.
 
 * Working as a Software Developer for an Insurance domain customer of [Tata Consultancy Services](https://www.tcs.com)
   * As a member of Application Security module I actively contribute towards the security framework of the project
