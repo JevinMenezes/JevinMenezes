@@ -7,7 +7,7 @@ Hello there! I'm Jevin.
   * Once in 3 months I work with Performance monitoring team to enhance overall application performance metrics
   
   
-Outside work:
+Off working hours:
 - 🔭 I’m currently working on Information Security open source projects 
 - 🌱 I’m learning new ways of leading design and development of SaaS based projects
 - 👯 I’m looking to collaborate on community driven open source projects
