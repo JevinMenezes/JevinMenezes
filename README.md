@@ -14,7 +14,7 @@ Off working hours:
 - 💬 Ask me about current Digital Technologies and we'll surely have endless conversations 😄
 - ⚡ Fun fact: The name's *Jevin Menezes* and the address is *127.0.0.1* 😉
 
-Links: [Twitter](https://twitter.com/JevinMenezes) | [LinkedIn](https://in.linkedin.com/in/jevinmenezes) | [GitHub](https://github.com/JevinMenezes)
+Links: [Twitter](https://twitter.com/JevinMenezes) · [LinkedIn](https://in.linkedin.com/in/jevinmenezes) · [GitHub](https://github.com/JevinMenezes)
 
 
 <!--
