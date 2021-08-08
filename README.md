@@ -1,6 +1,6 @@
 Hello there! I'm Jevin.
 
-* Working as a Software Developer at Deloitte Digital.
+* Software Developer by profession
   
 Off working hours:
 - 🔭 I’m currently working on open source projects 
