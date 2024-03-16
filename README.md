@@ -1,12 +1,8 @@
 Hello there! I'm Jevin.
 
 * Software Developer by profession
-  
-Off working hours:
-- 🔭 I’m currently working on open source projects 
-- 🌱 I’m learning new ways of leading design and development of SaaS based projects
-- 👯 I’m looking to collaborate on community driven open source projects
-- 💬 Ask me about current Digital Technologies and we'll surely have endless conversations 😄
+
+- 💬 Always in for discussins involving Science and Technologies 😄
 - ⚡ Fun fact: The name's *Jevin Menezes* and the address is *127.0.0.1* 😉
 
 Links: [Twitter](https://twitter.com/JevinMenezes) · [LinkedIn](https://in.linkedin.com/in/jevinmenezes) · [GitHub](https://github.com/JevinMenezes)
